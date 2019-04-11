@@ -1,0 +1,40 @@
+# Ruby Usage
+# require 'yaml'
+# goa = YAML.load_file('goa.yml')
+things-to-do: 
+  - Water sports on beach
+  - Eat local food
+  - Night flea markets
+  - Visit historic Portuguese churches
+  - Visit art galleries
+beaches:
+  - name: Anjuna 
+    link: https://goo.gl/maps/4BahVnzk7LE2   
+  - name: Palolem 
+    link: https://goo.gl/maps/DYFfvHsGm5E2  
+food:
+  - name: Chicken Cafreal
+    link: https://goo.gl/maps/d8c6Q5rrBHQ2
+  - name: Prawns/Seafood Rava Fry
+    link: https://goo.gl/maps/Kx1hC5WCZfo
+  - name: Goan Fish Curry Rice
+    link: https://goo.gl/maps/vykCT7eiPLN2    
+flee-markets:
+  - name: Anjuna Saturday night flea market
+    link: http://bit.ly/2j8hLRl
+  - name: Baga Saturday night flea market
+    link: http://bit.ly/2B3gemo
+  - name: Anjuna Wednesday flea market
+    link: http://bit.ly/2jxfrQY
+historic-sites:
+  - name: Old Goa
+    description: World heritage churches. 
+    link: https://goo.gl/maps/AAhrMFY7Jkq
+  - name: Aguada Fort
+    description: A 17th century Portuguese fort with great views of the Arabian sea.
+    link: https://goo.gl/maps/wZwzCqejDZw  
+art-galleries: 
+  - name: Museum of Goa 
+    link: https://goo.gl/maps/MB8gpmdXnxT2
+  - name: Kala Academy
+    link: https://goo.gl/maps/QRS9xW9K7KH2
